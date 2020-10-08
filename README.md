@@ -12,4 +12,4 @@ My program gives information about the rental of bikes.
 It is a python file bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+My  credit was a website to find how to get the most common combination between two columns. It was on stackoverflow 
